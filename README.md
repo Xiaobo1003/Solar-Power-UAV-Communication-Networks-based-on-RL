@@ -7,6 +7,8 @@ This repository contains the official implementation for our paper:
 
 _Longxin Wang, Saugat Tripathi, Ran Zhang, Nan Cheng, Miao Wang_  
 Published in *IEEE International Conference on Communication(ICC)*, 2023.
+## 🖼️ Network Architecture
+![UAV Network](images/uav_network.png)
 
 ## 📁 Project Structure
 - `DDPG 17UAV.py` - main script to run the 17 UAVs
