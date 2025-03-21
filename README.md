@@ -16,8 +16,12 @@ Published in *IEEE International Conference on Communication(ICC)*, 2023.
 
 ## 🚀 Usage
 
-### ▶️ Run with 17 UAVs or 15 UAVs:
+### ▶️ Run with 17 UAVs:
 
 ```bash
 python "DDPG 17UAV.py"
+```
+### ▶️ Run with 15 UAVs:
+```bash
 python "DDPG UAV15best.py"
+```
