@@ -25,6 +25,7 @@ Convergence of episodic reward for different numbers
 of UAVs and reward coefficients (c1, c2). The episode
 rewards are averaged over a window size of 300 with
 95% credit interval.
+
 ![Convergence](Convergence.png)
 ### 🔹 Hourly number of serving UAVs
 ![Hourly number of serving UAVs](Hourly_number_of_serving_UAVs.png)
